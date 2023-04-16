@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomAdafter</string>
+
+    <string-array name="country_name">
+
+        <item> bangladesh</item>
+        <item> india</item>
+    </string-array>
+</resources>
